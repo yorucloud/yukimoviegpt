@@ -1,0 +1,10 @@
+numpy==1.24.2
+scikit-learn==1.2.2
+
+# Im using a ipynb file use this commaands below to install libraries:
+
+#!pip install scikit-learn
+
+#!pip install numpy 
+
+#Run on python 10.0 in case of newer updates having issues 
